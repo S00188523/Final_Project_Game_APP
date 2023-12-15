@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final_Project_Game</string>
+
+    <string name="your_score_was">Your score was %1$d</string>
+</resources>
